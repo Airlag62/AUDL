@@ -16,7 +16,7 @@ The objectives of this project are multiple:
 
 ## Methods and tools
 
-Scrapping - Selenium, Beautiful Soup
-Data Exploration - Jupyter Notebook, Pandas
-Code - Python
-Automation - Streamlit, GCP, ...
+  - Scrapping - Selenium, Beautiful Soup
+  - Data Exploration - Jupyter Notebook, Pandas
+  - Code - Python
+  - Automation - Streamlit, GCP, ...
